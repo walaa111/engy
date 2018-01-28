@@ -1,12 +1,13 @@
 <?xml version='1.1' encoding='utf-8'?>
-<widget id="com.realdealagency.sara" version="1.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.realdealagency.engy" version="1.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 
-    <name>  سارة عبد السلام  </name>
+    <name>   سفرة دايمة مع انجي  </name>
     <description>
-سارة عبد السلام
+  سفرة دايمه مع انجي
     </description>
     <author email="ceo@realdealagency.com" href="http://www.realdealagency.com">
-سارة عبد السلام
+ 
+  سفرة دايمه مع انجي
    
     </author>
     <content src="index.html" />
